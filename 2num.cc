@@ -29,7 +29,7 @@ int main(int argc, const char **argv)
     outname += "n";
     ofstream out(outname.c_str(), ofstream::out);
     string line;
-    while(getline(in, line)) {
+    while (getline(in, line)) {
       string item, feat, val;
       istringstream linestr(line);
       linestr >> item >> feat >> val;
