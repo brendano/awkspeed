@@ -7,13 +7,13 @@ public class Formatter {
     public static void main(String[] args) throws Exception{
 	HashMap<String, Integer> imap = new HashMap<String, Integer>();
 	HashMap<String, Integer> jmap = new HashMap<String, Integer>();
+        int j = 0;
 	for(String file : args){
 	    BufferedReader in = new BufferedReader(new FileReader(file));
 	    BufferedWriter out = new BufferedWriter(new FileWriter(file + "n"));
 	    BufferedWriter vocab = new BufferedWriter(new FileWriter("vocab"));
 	    String feats = in.readLine();
 	    int i = 0;
-	    int j = 0;
 	    while(feats != null){
 		String[] vals = feats.split(" ");
 		String key = file + " " + vals[0];
