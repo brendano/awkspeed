@@ -13,18 +13,18 @@ Questions to brenocon@gmail.com
 Output MD5's
 ==============
 
-MD5 (1996.wctriples.pn) = f36795cf9c4dd41b69622478c3e8fd9e
-MD5 (1997.wctriples.pn) = b18fa737e799b93c05fe4fd0523fc084
-MD5 (1998.wctriples.pn) = 2fa08f9e638d1159ffe958ab60a7e08c
-MD5 (1999.wctriples.pn) = 2a6594edc30717f37a998f4c6c113f6f
-MD5 (2000.wctriples.pn) = da15012e133131d8e289b0ef117ca083
-MD5 (2001.wctriples.pn) = 5d2c4cf7844fa6afa9a3599a8d9f4812
-MD5 (2002.wctriples.pn) = 47c964797f388b2f3be6221407396a28
-MD5 (2003.wctriples.pn) = b7bee42f6b88925125aae647e527e67b
-MD5 (2004.wctriples.pn) = e80a61e7a67fcf0b30fd181e4bea0253
-MD5 (2005.wctriples.pn) = 2a877a712762174475076e7c7ae2cb9d
-MD5 (2006.wctriples.pn) = 7a8999e7f87203e7221dc7b899f1a358
-MD5 (vocab) = 8f89e81f73ff3c44e5e19c460a1cca1b
+    MD5 (1996.wctriples.pn) = f36795cf9c4dd41b69622478c3e8fd9e
+    MD5 (1997.wctriples.pn) = b18fa737e799b93c05fe4fd0523fc084
+    MD5 (1998.wctriples.pn) = 2fa08f9e638d1159ffe958ab60a7e08c
+    MD5 (1999.wctriples.pn) = 2a6594edc30717f37a998f4c6c113f6f
+    MD5 (2000.wctriples.pn) = da15012e133131d8e289b0ef117ca083
+    MD5 (2001.wctriples.pn) = 5d2c4cf7844fa6afa9a3599a8d9f4812
+    MD5 (2002.wctriples.pn) = 47c964797f388b2f3be6221407396a28
+    MD5 (2003.wctriples.pn) = b7bee42f6b88925125aae647e527e67b
+    MD5 (2004.wctriples.pn) = e80a61e7a67fcf0b30fd181e4bea0253
+    MD5 (2005.wctriples.pn) = 2a877a712762174475076e7c7ae2cb9d
+    MD5 (2006.wctriples.pn) = 7a8999e7f87203e7221dc7b899f1a358
+    MD5 (vocab) = 8f89e81f73ff3c44e5e19c460a1cca1b
 
 
 Timing results
